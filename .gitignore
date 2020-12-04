@@ -1,0 +1,9 @@
+build
+img2txt.py.egg-info
+dist
+*.pyc
+*.swp
+*.swo
+.ropeproject
+venv
+test
